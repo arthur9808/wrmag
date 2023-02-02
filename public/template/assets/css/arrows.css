@@ -1,0 +1,81 @@
+/* Profiles in a div with scrollbar */
+
+.scrollbar {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    overflow-y: scroll;
+    height: 400px;
+}
+
+.scrollbar-primary {
+    background-color: #fff;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    overflow-y: scroll;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.scrollbar-primary::-webkit-scrollbar {
+    width: 5px;
+    background: #fff;
+}
+
+/* Todos los elemntos de force-overflow debem estar em una linea horizontal */
+.force-overflow {
+    display: flex;
+    min-height: 400px;
+    flex-direction: row;
+}
+
+.scroll-buttons {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    align-content: end;
+}
+
+/*Size of the scroll buttons*/
+.scroll-buttons button {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+    background-color: #fff;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.scroll-buttons button > i {
+    font-size: 30px;
+    color: #000;
+}
+
+/*Animation pulse */
+.pulse {
+    animation: pulse 0.8s ease-out;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.06);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+/*Responsive design*/
+@media (max-width: 768px) {
+    .scroll-buttons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+    }
+}

@@ -1,0 +1,252 @@
+Abilene Christian University
+Alabama A&M University
+Alabama State University
+Alcorn State University
+Appalachian State University
+Arizona State University
+Arkansas State University
+Auburn University
+Austin Peay State University
+Ball State University
+Baylor University
+Bethune-Cookman University
+Boise State University
+Boston College
+Brigham Young University
+Brown University
+Bryant University
+Bucknell University
+Butler University
+California Polytechnic State University
+California State University, Sacramento
+Campbell University
+Centra Connecticut State University
+Central Michigan University
+Charleston Southern University
+Clemson University
+Coastal Carolina University
+Colgate University
+College of the Holy Cross
+College of William & Mary
+Colorado State University
+Columbia University
+Cornell University
+Dartmouth College
+Davison College
+Delaware State University
+Drake University
+Duke University
+Duquesne University
+East Carolina University
+East Tennessee State University
+Eastern Illinois University
+Eastern Kentucky University
+Eastern Michigan University
+Eastern Washington University
+Elon University
+Florida A&M University
+Florida Atlantic University
+Florida International University
+Florida State University
+Fordham University
+Fresno State University
+Furman University
+Gardner-Webb University
+Georgetown University
+Georgia Institute of Technology
+Georgia Southern University
+Georgia State University
+Grambling State University
+Hampton University
+Harvard University
+Houston Baptist University
+Howard University
+Idaho State University
+Illinois State University
+Illinois University
+Indiana State University
+Indiana Unversity
+Iowa State University
+Jackson State University
+Jacksonville State University
+James Madison University
+Kennesaw State University
+Kent State University
+Lafayette College
+Lamar University
+Lehigh University
+Liberty University
+Long Island University
+Louisiana State University
+Louisiana Tech University
+Marist College
+Marshall University
+McNeese State University
+Mercer University
+Miami (FL) University
+Miami (OH) University
+Michigan State University
+Middle Tennessee University
+Mississippi State University
+Mississippi Valley State University
+Missouri State University
+Monmouth University
+Montana State University
+Morehead State University
+Morgan State University
+Murray State University
+Navy Academy Athletics
+NC State University
+New Mexico State University
+Nicholls State University
+Norfolk State University
+North Carolina A&T State University
+North Carolina Central University
+North Dakota State University
+Northern Arizona University
+Northern Illinois University
+Northwestern State University
+Northwestern University
+Ohio State University
+Ohio University
+Oklahoma State University
+Old Dominion University
+Oregon State University
+Penn State University
+Portland State University
+Prairie View A&M University
+Presbyterian College
+Princeton University
+Purdue University
+Rice University
+Robert Morris University
+Rutgers University
+Sacred Heart University
+Saint Francis University
+Sam Houston State University
+Samford University
+San Diego State University
+San Jose State University
+South Carolina State University
+South Dakota State University
+Southeast Missouri State University
+Southeastern Louisiana University
+Southern Illinois University Carbondale
+Southern Methodist University
+Southern University
+Southern Utah University
+Stanford University
+Stephen F. Austin State University
+Stetson University
+Stony Brook University
+Syracuse University
+Temple University
+Tennessee State University
+Tennessee Technological University
+Texas A&M University
+Texas Christian University
+Texas Southern University
+Texas State University
+Texas Tech University
+The Army University
+The Citadel, The Military College of South Carolina
+Towson University
+Troy University
+Tulane University
+UMass Global
+United States Air Force Academy
+University of South Dakota
+University At Albany, SUNY
+University at Buffalo
+University Bowling Green
+University Michigan
+University of Akron
+University of Alabama
+University of Alabama at Birmingham
+University of Arizona
+University of Arkansas at Pine Bluff
+University of California
+University of California, Davis
+University of California, Los Angeles
+University of Central Arkansas
+University of Central Florida
+University of Cincinnati
+University of Colorado Boulder
+University of Connecticut
+University of Dayton
+University of Delaware
+University of Florida
+University of Georgia
+University of Hawaii
+University of Houston
+University of Idaho
+University of Iowa
+University of Kansas
+University of Kentucky
+University of Louisiana at Lafayette
+University of Louisiana Monroe
+University of Louisville
+University of Maine
+University of Maryland
+University of Memphis
+University of Minnesota
+University of Mississippi
+University of Missouri
+University of Montana
+University of Nebraska-Lincoln
+University of Nevada, Las Vegas
+University of Nevada, Reno
+University of New Hampshire
+University of New Mexico
+University of North Alabama
+University of North Carolina at Chapel Hill
+University of North Carolina at Charlotte
+University of North Dakota
+University of North Texas
+University of Northern Colorado
+University of Northern Iowa
+University of Notre Dame
+University of Oklahoma
+University of Oregon
+University of Pennsylvania
+University of Pittsburgh
+University of Rhode Island
+University of Richmond
+University of San Diego
+University of South Alabama
+University of South Carolina
+University of South Florida
+University of Southern California
+University of Southern Mississippi
+University of Tennessee
+University of Tennessee at Chattanooga
+University of Tennessee at Martin
+University of Texas at Austin
+University of Texas at El Paso
+University of Texas at San Antonio
+University of the Incarnate Word
+University of Toledo
+University of Tulsa
+University of Utah
+University of Virginia
+University of Washington
+University of Wisconsin-Madison
+University of Wyoming
+Utah State University
+Valparaiso University
+Vanderbilt University
+Villanova University
+Virginia Military Institute
+Virginia Tech
+Wagner College
+Wake Forest University
+Washington State University
+Weber State University
+West Virginia University
+Western Carolina University
+Western Illinois University
+Western Kentucky University
+Western Michigan University
+Wofford College
+Yale University
+Youngstown State University

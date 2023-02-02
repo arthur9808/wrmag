@@ -1,0 +1,493 @@
+.star_required {
+    font-size: 10px;
+}
+
+#header {
+    border-bottom: 4px solid #ddd;
+}
+
+.check_out h1 {
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+#performance_stats_collapse .col-xl-6 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#performance_stats_collapse img {
+    opacity: 0.4;
+}
+#performance_stats_collapse h6 {
+    margin-bottom: 0px;
+}
+#performance_stats_collapse > div > div {
+    justify-content: start !important;
+}
+.measurement h6 {
+    margin-bottom: 0px;
+}
+
+@media (max-width: 767px) {
+    h1 {
+    }
+
+    h2 {
+    }
+
+    h3 {
+    }
+
+    h4 {
+    }
+
+    h5 {
+    }
+
+    h6 {
+    }
+    .address h5,
+    .address_faq h3 {
+        margin-bottom: 0px;
+    }
+    .address h5,
+    #contactt h4,
+    .address_faq h3,
+    .quarterback_coaches h3,
+    h1.membershil_title,
+    #section_red h3 {
+        font-size: 30px !important;
+        font-weight: 700 !important;
+    }
+
+    #section-profile img {
+        width: 70%;
+    }
+    .control_brand p,
+    p {
+        font-size: 16px !important;
+        line-height: 20px;
+        text-align: left;
+    }
+    p.content {
+        text-align: left !important;
+    }
+
+    #banner .red_title {
+        margin-bottom: 10px;
+    }
+    #about {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .section_seven_bg p {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .row.end_btn {
+        margin-top: 25px !important;
+        margin-bottom: 25px !important;
+    }
+    #section_seven .colr {
+        font-size: 40px !important;
+    }
+    #section_seven h4 {
+        margin-bottom: 0px;
+    }
+    .radio_btn p {
+        margin-top: 23px;
+    }
+    .forget {
+        margin-top: 30px;
+    }
+    #section_four h3,
+    #about h3,
+    #section-profile h3 {
+        text-align: center;
+    }
+    h1.membershil_title {
+        margin-bottom: 20px !important;
+    }
+    .faq_divv {
+        padding-bottom: 0px;
+    }
+    .faq_divv,
+    #section_coaches,
+    .membership,
+    #section_red {
+        padding-top: 140px !important;
+    }
+    .filter_filter {
+        margin-left: 0px;
+        padding-left: 0px !important;
+    }
+    span.filter_filter,
+    h6.filter_pro {
+        font-size: 18px;
+    }
+    .profile-search-input {
+        padding-top: 5px !important;
+        padding-bottom: 5px !important;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .profile-search-input::placeholder,
+    .profile-search-input {
+        font-size: 16px !important;
+    }
+
+    #search_class_position_state_qb {
+        display: block;
+        width: 100%;
+        font-size: 18px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-top: 10px;
+    }
+    .check_out {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .check_out h1 {
+        font-size: 30px !important;
+    }
+    .bottom_coaches h6,
+    .bottom_coaches h3 {
+        font-size: 30px !important;
+        line-height: 35px !important;
+    }
+
+    .coaches_full_width {
+        padding-top: 60px !important;
+        padding-bottom: 60px !important;
+    }
+    .go_btn {
+        font-size: 20px;
+        margin-top: 0px !important;
+        display: block;
+        width: 100%;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    #contactt .address p,
+    #contactt .address {
+        text-align: center;
+        display: block;
+    }
+
+    #upgrade_btn {
+        width: 100%;
+        text-align: center;
+        margin-left: 0px !important;
+    }
+    .home_banner {
+        padding-bottom: 20px;
+    }
+
+    .featured-info p {
+        line-height: 30px !important;
+    }
+
+    .featured-name {
+        font-size: 20px !important;
+    }
+
+    .performance_stats_row > h6 {
+        margin-bottom: 0px !important;
+    }
+    #performance_stats_collapse_mobile > div > div > img {
+        opacity: 0.4;
+        padding-bottom: 20px;
+    }
+
+    .issue_alert {
+        font-size: 18px;
+    }
+
+    #alert_user {
+        font-size: 20px;
+    }
+
+    #help_message {
+        margin-top: 15px;
+        margin-bottom: -15px;
+        /*Subrayamos el texto*/
+    }
+
+    #help_message h4 {
+        line-height: 26px !important;
+    }
+
+    #banner > div > div > div.col-xl-8.col-xm-12 > h2 {
+        margin-left: 60px !important;
+    }
+
+    #banner > div > div > div.col-xl-8.col-xm-12 > h1 {
+        margin-left: 80px !important;
+    }
+}
+
+/* No more double lines */
+@media (max-width: 767px) {
+    .feature_text h4 {
+        font-size: 18px !important;
+        padding-left: 0px;
+        text-align: center;
+    }
+
+    .comming_soon > div {
+        margin-left: -10px !important;
+    }
+
+    /* #btn_contact_coach > h5::after {
+        content: "";
+        display: block;
+        width: 100%;
+        height: 1px;
+        background-color: #ddd;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    } */
+
+    .feature_text,
+    .feature_textt {
+        margin-bottom: 10px !important;
+        margin-top: 10px !important;
+    }
+
+    .left-2nd h6 {
+        font-size: 22px !important;
+    }
+
+    #btn_contact_coach > h5 {
+        font-family: "Raleway", sans-serif;
+        font-weight: 400 !important;
+        line-height: 28px !important;
+        font-size: 10px !important;
+        background: linear-gradient(
+            180deg,
+            #ff0000 0%,
+            #9a0d0d 99.99%,
+            rgba(255, 0, 0, 0) 100%,
+            #ae1010 100%
+        );
+        color: #fff !important;
+        transition: 0.3s;
+        padding: 0px !important;
+        width: 30% !important;
+    }
+
+    #btn_contact_coach {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .filter_filter::before {
+        content: "";
+        display: block;
+        width: 100%;
+        height: 1px;
+        background-color: #ddd;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+
+    .bottom_coaches h6 {
+        font-size: 18px !important;
+        line-height: 30px !important;
+        margin-bottom: 30px;
+    }
+
+    .feature_textt h4 {
+        font-size: 20px;
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    .measurement h6 {
+        font-size: 25px;
+    }
+
+    .col_box {
+        margin-left: 20px !important;
+    }
+
+    .coming_box {
+        margin-left: -25px !important;
+    }
+
+    .title_box {
+        margin-left: -15px !important;
+    }
+
+    .QB h5 {
+        font-size: 12px !important;
+        line-height: 20px;
+        padding-top: 10px !important;
+    }
+
+    .soon h6 {
+        color: #ff0000;
+        font-size: 9px !important;
+        text-align: center;
+        padding-top: 10px !important;
+    }
+
+    .QB {
+        margin-bottom: 10px !important;
+    }
+
+    .icon_mobile > i {
+        font-size: 15px !important;
+    }
+
+    .wonderlic {
+        margin-bottom: 15px !important;
+    }
+
+    /* Profile Videos */
+    .highlight_video {
+        margin: 10px 0;
+        min-height: 200px !important;
+    }
+
+    .squad_sec {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .box h6 {
+        font-size: 20px;
+    }
+
+    .box p {
+        font-size: 16px !important;
+    }
+
+    /* Coaches */
+    .quarterback_coaches h3 {
+        font-size: 20px !important;
+        font-weight: 700 !important;
+        margin-top: 20px;
+    }
+
+    .coach_content h5 {
+        font-size: 20px !important;
+        line-height: 40px !important;
+    }
+
+    .coach_content h1 {
+        line-height: 50px !important;
+        font-size: 30px !important;
+        margin-top: 20px !important;
+    }
+
+    .check_out {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+    .check_out h1 {
+        font-size: 20px !important;
+    }
+
+    /*HOME PAGE*/
+    .build-profile h3,
+    .control_brand h3 {
+        text-align: center !important;
+        font-size: 28px !important;
+        margin-bottom: 20px;
+    }
+
+    #section_red h3 {
+        font-size: 25px !important;
+    }
+
+    .table_hight_school_stats {
+        padding: 15px !important;
+    }
+
+    #hight_school_stats_div_collapse_mobile > div > div > div > p {
+        font-size: 14px !important;
+    }
+
+    #section_four h3 {
+        font-size: 28px !important;
+    }
+
+    .academic_btn_mail {
+        justify-content: center !important;
+        align-items: center !important;
+    }
+
+    .scroll-buttons button {
+        width: 80px !important;
+        height: 80px !important;
+    }
+
+    .badge-red {
+        font-size: 10px !important;
+    }
+
+    #hight_school_stats_div_collapse_mobile > div > div > div > h6 {
+        font-weight: 900;
+        text-align: center;
+    }
+
+    #hight_school_stats_div_collapse_mobile > div > div > div > p {
+        text-align: center;
+    }
+
+    #alert_user {
+        font-size: 20px;
+    }
+
+    #alert_user h1 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+
+    #alert_user h3 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .academic_btn {
+        margin-top: -50px !important;
+    }
+
+    h4.featured_photos {
+        font-size: 20px;
+        line-height: 40px;
+        text-align: center;
+    }
+
+    #sign-up > div > div > div > div.form_signup {
+        padding: 0px 0px !important;
+    }
+
+    .special_character {
+        margin-left: 19px !important;
+        font-size: 14px !important;
+    }
+}
+
+@media (min-width: 768px) {
+    /* .squad_sec {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    } */
+
+    .title_complete {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+    }
+}
